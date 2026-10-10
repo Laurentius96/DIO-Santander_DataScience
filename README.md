@@ -9,7 +9,7 @@
   <a href="#-overview">Overview</a> •
   <a href="#-bootcamp-structure">Structure</a> •
   <a href="#-projects-and-challenges">Projects</a> •
-  <a href="#-tools-and-technologies">Tools</a> •
+  <a href="#%EF%B8%8F-tools-and-technologies">Tools</a> •
   <a href="#-repository-content">Content</a> •
   <a href="#-license">License</a>
 </p>
