@@ -495,6 +495,35 @@ This repository is regularly updated with new materials and projects as I progre
 - **March/2025**: Bootcamp start and repository setup
 </details>
 
+## 🚀 How to Use
+
+1. **Browse online:** open any module folder and click a notebook (`.ipynb`). GitHub renders it with its outputs.
+2. **Run locally:**
+
+   ```bash
+   git clone https://github.com/Laurentius96/DIO-Santander_DataScience.git
+   cd DIO-Santander_DataScience
+   pip install pandas numpy matplotlib seaborn scikit-learn jupyter
+   jupyter notebook
+   ```
+
+   Some modules use extra packages; install them as the notebook's first cell or its `requirements.txt` indicates.
+3. **Run in the cloud:** upload a notebook to [Google Colab](https://colab.research.google.com/) (File › Upload notebook).
+
+---
+
+## 🤝 Contributing
+
+Contributions, ideas and feedback are welcome!
+
+- 🐛 **Found a bug or something unclear?** [Open an issue](https://github.com/Laurentius96/DIO-Santander_DataScience/issues/new) describing what happened and how to reproduce it.
+- 💡 **Have an idea or a question?** [Open an issue](https://github.com/Laurentius96/DIO-Santander_DataScience/issues/new) and tell me about it.
+- 🔧 **Want to propose a fix?** Fork the repository, create a branch (`git checkout -b fix/short-description`), commit your changes and open a pull request explaining what changed and why.
+
+By contributing, you agree that your contribution is shared under the same license as this project.
+
+---
+
 ## 📜 License
 
 <details open>
